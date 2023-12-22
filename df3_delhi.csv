@@ -1,0 +1,72 @@
+,Restaurant,Cuisine,Rating,Delivery_time,Price per two,Location
+0,Gulab,"North Indian, South Indian, Chinese, Tandoor, Snacks, Sweets",4.2,24,200,Delhi
+1,Durga Dosa,"South Indian, Chinese",4.2,17,150,Delhi
+2,Sehyog Alpahar,"South Indian, Snacks, Fast Food",4.3,32,150,Delhi
+3,DURGA DOSA CORNER,"South Indian, Chinese",4.1,22,200,Delhi
+4,Radha Ki Rasoi,"North Indian, Chinese, South Indian",3.0,36,350,Delhi
+5,New Durga Dosa Corner,"South Indian, Snacks, Indian",3.9,27,150,Delhi
+6,South Indian Hut,South Indian,4.0,22,400,Delhi
+7,Temple Street,"South Indian, Biryani, Chaat, Mediterranean, Tandoor, Punjabi",3.9,33,300,Delhi
+8,Bikanervala Raja Garden,"Street Food, Fast Food, Desserts, South Indian",3.8,23,300,Delhi
+9,Madras Dosa & Chinese Corner (Shalimar Bagh),"South Indian, Indian, Snacks",4.0,35,300,Delhi
+10,Hotel Saravana Bhavan,South Indian,4.2,24,300,Delhi
+11,Home Plate by EatFit,"North Indian, Home Food, Healthy Food, Indian, Punjabi, South Indian, Rajasthani...",4.2,28,160,Delhi
+12,"Singla's Sweets, Bakery & Restaurant","Sweets, North Indian, Chinese, South Indian, Italian, Bakery",4.1,31,250,Delhi
+13,Dakshin South Indian Hut,South Indian,4.0,29,200,Delhi
+14,Great Indian Khichdi by EatFit,"Home Food, Indian, North Indian, Healthy Food, Snacks, Desserts, Rajasthani, Sou...",4.3,29,200,Delhi
+15,Gulab,"North Indian, Sweets, South Indian",4.0,23,250,Delhi
+16,Juggernaut,"South Indian, North Indian, Fast Food, Beverages, Desserts, Street Food",4.4,30,1200,Delhi
+17,MilletBowl By UrbanKisaan,"Healthy Food, South Indian, Biryani",4.2,32,250,Delhi
+18,KGF SOUTH INDIAN DOSA CORNER,"South Indian, Chinese",--,35,200,Delhi
+19,Banke bihari mishran bhandar,"Snacks, Chinese, Indian, Tandoor, South Indian",--,41,300,Delhi
+20,Dosa Express,South Indian,--,36,100,Delhi
+21,Cafe Chennai,South Indian,--,41,200,Delhi
+22,South India Corner,South Indian,4.2,35,200,Delhi
+23,"Singla's Sweets, Bakery & Restaurant","Sweets, North Indian, Chinese, South Indian, Italian, Bakery",4.1,31,250,Delhi
+24,Bigg Boss Khana Khazana,"South Indian, Chinese, Pastas",--,38,300,Delhi
+25,Dakshin South Indian Hut,South Indian,4.0,29,200,Delhi
+26,JAI SOUTH INDIAN DOSA CORNER,"Street Food, South Indian, Chinese",3.8,35,400,Delhi
+27,Yaaro Di Chaap,"Tandoor, Indian, South Indian, Chinese",--,38,250,Delhi
+28,Om Sweets & Snacks,"Sweets, North Indian, South Indian, Chinese, Snacks, Desserts",4.4,35,500,Delhi
+29,Cafe Russmunch,"Snacks, Italian, Chinese, Pizzas, South Indian, Desserts, Beverages",3.9,44,299,Delhi
+30,Temple Street,"South Indian, Biryani, Chaat, Mediterranean, Tandoor, Punjabi",3.9,33,300,Delhi
+31,Sehyog Alpahar,"South Indian, Snacks, Fast Food",4.3,32,150,Delhi
+32,Great Indian Khichdi by EatFit,"Home Food, Indian, North Indian, Healthy Food, Snacks, Desserts, Rajasthani, Sou...",4.3,29,200,Delhi
+33,SHREE MEENAKSHI DOSAI,South Indian,4.3,31,200,Delhi
+34,Home Plate by EatFit,"North Indian, Home Food, Healthy Food, Indian, Punjabi, South Indian, Rajasthani...",4.2,28,160,Delhi
+35,Sri Durga Dosa Corner,"South Indian, Chinese",3.8,37,200,Delhi
+36,Standard Burfee,"Chinese, North Indian, South Indian, Continental",4.0,37,300,Delhi
+37,Munch,"South Indian, Indian, Snacks",4.0,44,250,Delhi
+38,Suganya's,"South Indian, Chinese, Continental",3.8,41,200,Delhi
+39,South Indian Fast Food,"South Indian, Chinese, North Indian",4.1,35,200,Delhi
+40,Hemambika Kafe,"South Indian, Home Food",4.1,38,120,Delhi
+41,Vanakkam Madras Cafe,"South Indian, Chinese",4.2,34,150,Delhi
+42,MADRAS CAFE,South Indian,3.7,35,200,Delhi
+43,Nivetha Dosa Corner,South Indian,4.0,33,200,Delhi
+44,Haldiram Bhujiawala,"Snacks, North Indian, South Indian",3.7,33,400,Delhi
+45,Dilli Zaika,"Chinese, South Indian, North Indian",4.0,43,400,Delhi
+46,Dosa Corner,"South Indian, Chinese",4.2,35,200,Delhi
+47,New south Indian Fast Food,"South Indian, Chinese",4.2,44,150,Delhi
+48,Dilli Zaika,"Chinese, South Indian, North Indian",4.0,43,400,Delhi
+49,South Indian Cafe,"South Indian, Chinese",4.0,43,200,Delhi
+50,Bengal Sweet Corner,"Sweets, Snacks, South Indian, North Indian",4.2,43,300,Delhi
+51,Cafe Russmunch,"Snacks, Italian, Chinese, Pizzas, South Indian, Desserts, Beverages",3.9,44,299,Delhi
+52,New south Indian Fast Food,"South Indian, Chinese",4.2,44,150,Delhi
+53,Munch,"South Indian, Indian, Snacks",4.0,44,250,Delhi
+54,Shree Rathnam,"South Indian, North Indian, Chinese, Desserts",4.3,44,600,Delhi
+55,Xotic Dosa,"North Indian, South Indian",4.4,45,200,Delhi
+56,Annie's Kerala Kitchen,"Kerala, South Indian",3.8,46,300,Delhi
+57,Shree Gopala,"North Indian, South Indian, Burgers, Snacks, Sweets",4.2,46,400,Delhi
+58,Naivedyam,South Indian,4.3,46,300,Delhi
+59,The Veggie Bites,"South Indian, Beverages",4.0,47,300,Delhi
+60,Punjabi Rasoi,"North Indian, Chinese, South Indian, Italian, Desserts",4.2,47,400,Delhi
+61,Dasaprakash,"South Indian, Indian, Chinese, Beverages, Desserts",4.1,47,800,Delhi
+62,New Kadimi,"North Indian, Chinese, South Indian",4.1,49,600,Delhi
+63,Patiala Haouz by dpals,"North Indian, South Indian, Desserts, Bakery, Snacks, Beverages, Pastas",4.4,50,150,Delhi
+64,South Indian Junction,"South Indian, Chinese",3.3,50,200,Delhi
+65,DOSA SAGAR,South Indian,3.2,51,200,Delhi
+66,South Indian Cafe,"South Indian, Chinese",4.0,43,200,Delhi
+67,Xotic Dosa,"North Indian, South Indian",4.4,46,200,Delhi
+68,Kesar ( Ashok Vihar ),"North Indian, South Indian, Chinese, Tandoor, Biryani, Continental",--,50,600,Delhi
+69,Anju Sweets,"Desserts, Sweets, South Indian, Chinese, Fast Food, Bakery, Beverages, Street Fo...",3.7,52,250,Delhi
+70,Smk Mess	,"South Indian, Chinese, Biryani, Beverages",--,53,300,Delhi

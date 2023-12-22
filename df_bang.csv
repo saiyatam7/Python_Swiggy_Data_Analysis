@@ -1,0 +1,305 @@
+,Restaurant,Cuisine,Rating,Delivery_time,Price per two,Location
+0,Priyadarshini Grand,"South Indian, North Indian, Chaat, Chinese, Beverages",4.5,32,200,Bangalore
+1,Veena Stores,South Indian,4.5,29,100,Bangalore
+2,Namaste,"South Indian, Thalis, Snacks, Biryani, Indian, Chinese, Desserts, Beverages",4.1,25,100,Bangalore
+3,Vidyarthi Bhavan,South Indian,4.3,26,150,Bangalore
+4,Ayodhya Upachar,"Chinese, Desserts, North Indian, South Indian, Chaat",4.3,33,200,Bangalore
+5,Davanagere Benne Dose,South Indian,4.2,42,150,Bangalore
+6,Puliyogare Point,South Indian,4.5,21,150,Bangalore
+7,Paakashala,"North Indian, South Indian, Chinese, Chaat",4.3,33,500,Bangalore
+8,A2B - Adyar Ananda Bhavan,"South Indian, North Indian, Sweets, Chinese",4.4,23,300,Bangalore
+9,Sri Udupi Food Hub,"South Indian, North Indian, Indian, Chinese, Chaat, Ice Cream, Desserts, Beverag...",4.2,30,200,Bangalore
+10,Hotel Dwarka,South Indian,4.5,25,200,Bangalore
+11,Go Native,"Healthy Food, Jain, North Indian, South Indian",4.4,38,600,Bangalore
+12,MTR,South Indian,4.4,26,300,Bangalore
+13,Udupi Ruchi Grand,"South Indian, Chinese, North Indian, Chaat, Snacks",4.2,35,150,Bangalore
+14,Brundavan Upachar,"South Indian, North Indian, Chinese, Chaat, Beverages, Ice Cream",4.1,37,200,Bangalore
+15,Halli Jonne Biriyani,"South Indian, Biryani",4.3,33,300,Bangalore
+16,Vijayalakshmi Veg,"North Indian, South Indian, Chinese, Fast Food",4.3,31,100,Bangalore
+17,Vijayalakshmi,"South Indian, North Indian, Chinese",4.1,24,150,Bangalore
+18,SLV Corner Restaurant,"Chinese, South Indian, North Indian, Desserts",4.4,23,450,Bangalore
+19,Meghana Foods,"Biryani, Andhra, South Indian, North Indian, Chinese, Seafood",4.4,42,500,Bangalore
+20,Brahmins' Thatte Idli,South Indian,4.5,29,150,Bangalore
+21,Cafe Amudham,"South Indian, Snacks",4.7,27,400,Bangalore
+22,Sri Udupi Sagar,"South Indian, North Indian, Chinese",4.2,40,150,Bangalore
+23,Indraprastha Vegetarian,"Chinese, North Indian, South Indian",4.3,33,300,Bangalore
+24,Brahmin's Coffee Bar,South Indian,4.7,21,100,Bangalore
+25,Bangalore Thindies,South Indian,4.1,36,80,Bangalore
+26,Welcome Upahara,"South Indian, North Indian",4.3,37,150,Bangalore
+27,By 2 Coffee,South Indian,4.4,20,100,Bangalore
+28,SLV Swadishta (South Indian),South Indian,4.5,26,300,Bangalore
+29,New Udupi Upahar,"South Indian, North Indian, Chinese, Chaat, Juices, Beverages",4.2,37,200,Bangalore
+30,Hotel Kadamba Veg,"South Indian, North Indian, Chinese, Sweets",4.2,35,350,Bangalore
+31,Sri Udupi Park,"North Indian, South Indian, Chinese, Chaat, Beverages",4.4,40,200,Bangalore
+32,IDC Kitchen,"South Indian, North Indian, Indian",4.5,31,150,Bangalore
+33,Madurai Idly Shop,South Indian,4.1,38,150,Bangalore
+34,Park View Restaurant,"Chinese, South Indian, North Indian, Beverages",4.4,42,200,Bangalore
+35,SRI NAYVEDYA VEG,South Indian,4.3,31,150,Bangalore
+36,Anna Kuteera,"South Indian, North Indian, Chinese, Juices",4.3,30,250,Bangalore
+37,Sukh Sagar,South Indian,4.3,42,400,Bangalore
+38,New Shanti Sagar,"South Indian, Chinese, North Indian, Fast Food",4.2,28,200,Bangalore
+39,Bidadi Thatte idly,South Indian,4.2,31,100,Bangalore
+40,New Alameen Restaurant,"Biryani, Kerala, Meat, North Indian, South Indian",3.9,40,300,Bangalore
+41,Dwaraka Grand,"Street Food, North Indian, Chinese, Desserts, Ice Cream, South Indian",4.1,37,500,Bangalore
+42,Upahara Darshini KIMS Canteen,"South Indian, North Indian, Desserts, Chinese",4.0,22,400,Bangalore
+43,Malleshwaram dose corner,"South Indian, Snacks",4.4,41,120,Bangalore
+44,South Idlis,"South Indian, Chinese",4.0,33,150,Bangalore
+45,HOLIGE MANE,"South Indian, Snacks, Sweets",4.2,31,200,Bangalore
+46,Hotel Prakruthi,South Indian,4.0,29,200,Bangalore
+47,Shrinidhi Military Hotel,South Indian,4.0,27,299,Bangalore
+48,Shrinidhi Military Hotel,South Indian,4.0,27,299,Bangalore
+49,Chikpet Donne Biryani House Palace Guttahalli,"Biryani, South Indian",4.1,27,300,Bangalore
+50,Krishnam Veg,"South Indian, North Indian, Chinese, Indian, Desserts, Snacks",4.0,28,200,Bangalore
+51,Nammura Upachara,"South Indian, Chinese, North Indian",4.3,33,300,Bangalore
+52,Sri Ganesh Upahara,"South Indian, Chinese",4.4,25,200,Bangalore
+53,DBD-Davangere Benne Dosa,South Indian,4.3,26,150,Bangalore
+54,Namma kudla Veg  Malleswaram,"Coastal, Konkan, South Indian, Sweets",4.4,32,100,Bangalore
+55,Ayodhya Sagara,"Chinese, South Indian, North Indian, Desserts, Beverages, Mughlai",4.1,39,200,Bangalore
+56,Davanagere Benne Dose,South Indian,4.1,36,120,Bangalore
+57,Mulabagilu Dosa Point,"South Indian, Biryani, Snacks",--,42,200,Bangalore
+58,Donne Biryani House,"Biryani, South Indian",3.9,33,300,Bangalore
+59,Ayodhya Vaibhav,"Chinese, South Indian, Beverages",3.9,32,250,Bangalore
+60,HOT COFFEE,South Indian,4.5,24,100,Bangalore
+61,Chikkanna Tiffin Room(Cubbonpet),"South Indian, Snacks",4.6,30,200,Bangalore
+62,Sanman Restaurant,"South Indian, Indian, Chinese",4.4,28,300,Bangalore
+63,TKS Iyengars,South Indian,4.3,41,200,Bangalore
+64,South Grand,"Street Food, North Indian, Chinese, Desserts, South Indian",4.2,39,400,Bangalore
+65,SLV Ragigudda,"North Indian, Chinese, South Indian",4.4,36,250,Bangalore
+66,Oru Vadakkan Cafe,"Kerala, Biryani, South Indian, Chinese, Seafood, Beverages",4.0,45,400,Bangalore
+67,Nandhana Palace,"Biryani, Andhra, South Indian, North Indian",4.2,41,500,Bangalore
+68,New Udupi Grand,"South Indian, North Indian, Chinese, Beverages",4.0,31,250,Bangalore
+69,Sln tiffin room muddanna hotel,South Indian,4.3,27,40,Bangalore
+70,GALLI KITCHEN,"South Indian, Fast Food",4.2,27,200,Bangalore
+71,New Shanti Upahar,South Indian,4.4,34,200,Bangalore
+72,Raghavendra Upahara,"South Indian, Chinese, Ice Cream",4.4,37,100,Bangalore
+73,Ganesh Food Joint,South Indian,4.3,30,150,Bangalore
+74,Ashirvaad Grand,"Chinese, South Indian, North Indian, Desserts, Beverages",4.3,37,200,Bangalore
+75,UDUPI THINDI,"South Indian, Chinese, Beverages, Snacks",3.5,44,200,Bangalore
+76,Chapati Factory,"Chinese, South Indian, Indian",4.1,38,99,Bangalore
+77,Sai Prasadam,"South Indian, North Indian, Jain, Fast Food, Chinese",4.2,28,250,Bangalore
+78,UTTARA KARNATAKA JOLADA ROTTI ANGADI,"Snacks, Sweets, South Indian",4.0,32,100,Bangalore
+79,NARMADA CHAIN OF RESTAURANT,"Biryani, Andhra, South Indian",4.3,39,500,Bangalore
+80,NARMADA CHAIN OF RESTAURANT,"Biryani, Andhra, South Indian",4.3,39,500,Bangalore
+81,Malabar Bay,"Kerala, Seafood, South Indian, Biryani, Chinese, Desserts, Beverages",3.8,41,300,Bangalore
+82,KAAPI KATTE,"South Indian, Combo",4.3,29,200,Bangalore
+83,Gowdru hotel,"South Indian, Biryani, Beverages",4.0,36,250,Bangalore
+84,Thalairaj Biryani,"Andhra, Biryani, Hyderabadi, South Indian, Indian, Beverages",4.2,34,300,Bangalore
+85,Udupi Kitchen,"North Indian, South Indian",3.9,28,200,Bangalore
+86,Chikpet Donne Biriyani House - Srinagar,"Biryani, South Indian",3.9,26,350,Bangalore
+87,KAVALI,"Chinese, Indian, South Indian, Snacks",4.2,35,250,Bangalore
+88,SLV Corner Restaurant,"Chinese, South Indian, North Indian, Desserts",4.4,23,450,Bangalore
+89,South Kitchen,South Indian,4.5,25,150,Bangalore
+90,UDUPI SWADA,"Chinese, North Indian, South Indian",4.1,35,200,Bangalore
+91,Udupi Aatithya,"South Indian, Beverages",4.1,23,500,Bangalore
+92,Udupi Sri Krishna Bhavan,South Indian,4.3,29,200,Bangalore
+93,New Modern Hotel,South Indian,4.5,23,300,Bangalore
+94,Sri Krishna Sagar,"South Indian, North Indian, Beverages, Jain",4.3,43,200,Bangalore
+95,Chai Point,"Bakery, Beverages, Maharashtrian, Snacks, Street Food, South Indian, Punjabi",4.4,30,150,Bangalore
+96,Sri Vishnu Grand Veg,"South Indian, North Indian, Chinese",3.4,32,200,Bangalore
+97,Sagar fast food,"Chinese, South Indian, North Indian",4.4,40,200,Bangalore
+98,Hotel Chandrika,"South Indian, North Indian, Chinese, Juices, Chaat, Ice Cream",4.3,30,300,Bangalore
+99,Halli Mane,"South Indian, North Indian, Chinese",4.1,35,200,Bangalore
+100,PULIYOGARE MANE,"South Indian, Indian",4.3,31,100,Bangalore
+101,V S NAIDU HOTEL,"Indian, South Indian, Biryani",--,40,200,Bangalore
+102,Shree Amrutha Hastha,South Indian,3.9,33,350,Bangalore
+103,SN Refreshments,South Indian,4.6,33,100,Bangalore
+104,Asha Food Camp,"Indian, Beverages, Biryani, Chinese, Desserts, Ice Cream, Juices, Tandoor, North...",4.5,32,250,Bangalore
+105,Parijata pure veg,South Indian,4.2,28,200,Bangalore
+106,Home Plate by EatFit,"North Indian, Home Food, Healthy Food, Indian, Punjabi, South Indian, Rajasthani...",4.0,31,200,Bangalore
+107,Roti Ghar,"Chinese, South Indian, North Indian, Desserts, Fast Food, Beverages, Mughlai",4.2,26,400,Bangalore
+108,Mini Samrat Chalukya,"South Indian, North Indian, Chinese, Desserts",4.3,41,350,Bangalore
+109, Vishranti Bhavan @ CableCar,"South Indian, Desserts",4.3,39,200,Bangalore
+110,Chefmaster,"South Indian, Kerala, Seafood",4.1,39,300,Bangalore
+111,Hotel Udupi Ruchi,"South Indian, Chinese, Desserts, North Indian",4.1,30,300,Bangalore
+112,Kalpavriksha Upahara,"South Indian, North Indian, Chinese",4.5,39,200,Bangalore
+113,Shanthi Sagar,"North Indian, Chinese, South Indian",3.8,40,300,Bangalore
+114,Pai Vihar Grand,"Chinese, North Indian, South Indian",3.9,30,250,Bangalore
+115,Sri Raghavendra Davanagere Benne Dose Hotel,South Indian,3.9,42,200,Bangalore
+116,Sri Ranganatha Military Hotel,"South Indian, Biryani",4.1,21,240,Bangalore
+117,Sri Maruthi Miltry Hotel,"Biryani, South Indian",3.7,35,250,Bangalore
+118,Thottathil Restaurant,South Indian,3.9,41,200,Bangalore
+119,Hoskote dum biryani,"Biryani, South Indian, Chinese",--,38,260,Bangalore
+120,Maiyas Restaurants,South Indian,4.3,32,250,Bangalore
+121,SLV Refereshments,South Indian,4.4,26,100,Bangalore
+122,Priyadarshini Restaurant,"South Indian, Desserts, Fast Food",4.4,30,150,Bangalore
+123,Nam's Express Kitchen,"South Indian, Chinese",3.7,40,250,Bangalore
+124,Suchi Ruchi,"South Indian, Chinese, Chaat, North Indian, Snacks",4.0,34,200,Bangalore
+125,Andhra Gunpowder,"Andhra, Biryani, South Indian",4.3,29,350,Bangalore
+126,YEDIYUR RAMANNA MILITARY HOTEL,"North Indian, Indian, South Indian, Snacks",4.1,32,500,Bangalore
+127,New Krishna Bhavan (Gopika A/C),"South Indian, North Indian, Chinese, Jain, Sweets",4.4,32,300,Bangalore
+128,Oonu Ready,"South Indian, Kerala",3.3,50,300,Bangalore
+129,Davanagere Benne Dose Hut,South Indian,4.0,31,200,Bangalore
+130,SRI KRISHNA VAIBHAV,"North Indian, South Indian, Chinese, Tandoor",4.3,35,149,Bangalore
+131,Taste of malabar,"Kerala, South Indian, Seafood, Chinese",4.2,40,230,Bangalore
+132,Donne Biriyani Mane,"Biryani, Indian, South Indian, North Indian, Andhra, Hyderabadi, Singaporean, Be...",3.7,35,250,Bangalore
+133,Oottupura,"Kerala, South Indian",4.2,39,268,Bangalore
+134,Thalassery Restaurant,"South Indian, Chinese, Kerala",4.0,38,400,Bangalore
+135,Lakshmi food point,"South Indian, Indian",3.1,38,200,Bangalore
+136,S G Rao's Military Hotel,"South Indian, Biryani",3.8,25,400,Bangalore
+137,Adiga's,"South Indian, North Indian, Chinese, Thalis, Juices, Desserts",3.9,30,200,Bangalore
+138,Anjappar,"Chettinad, Thalis, Biryani, Chinese, Tandoor, South Indian, North Indian",3.9,45,400,Bangalore
+139,Malleshwaram Thatte Idly Cafe & By2 Coffee Point,"South Indian, Beverages",4.3,38,100,Bangalore
+140,SAKKATH DOSA,South Indian,4.1,24,150,Bangalore
+141,Great Indian Khichdi by EatFit,"Home Food, Indian, North Indian, Healthy Food, Snacks, Desserts, Rajasthani, Sou...",4.4,34,200,Bangalore
+142,Shahi Family Restaurant,"Seafood, Tandoor, Chinese, North Indian, South Indian",3.8,40,299,Bangalore
+143,Sai cafe veg,South Indian,4.1,32,250,Bangalore
+144,South Ruchis Square,"Biryani, Chinese, Desserts, Fast Food, Jain, North Indian, South Indian",4.1,30,500,Bangalore
+145,South Thindis,"South Indian, Sweets, Snacks",--,29,200,Bangalore
+146,Virinchi Cafe,South Indian,4.2,31,250,Bangalore
+147,Maruthi Davanagere Benne Dose,South Indian,4.4,33,120,Bangalore
+148,Nisarga Garden,"North Indian, South Indian, Chaat, Beverages",4.2,28,200,Bangalore
+149,DOSE OF DAVANGERE,South Indian,4.3,38,150,Bangalore
+150,Sri Udupi Grand,"Chinese, South Indian, North Indian, Desserts, Beverages",3.6,36,100,Bangalore
+151,Eat & Repeat,South Indian,4.3,25,200,Bangalore
+152,Mangaluru Kairuchi,"Mangalorean, Seafood, Coastal, South Indian",4.2,47,200,Bangalore
+153,Sahana's (Nati Style),"South Indian, Biryani, Chinese",4.0,28,200,Bangalore
+154,Hatti Kaapi - Coffee and more,"Beverages, South Indian, Snacks, Bakery",4.4,30,50,Bangalore
+155,Aahar,"South Indian, Beverages",4.4,39,200,Bangalore
+156,VASAVI ANDHRA MESS,"South Indian, Andhra, Chinese",3.7,33,200,Bangalore
+157,Shree Shabhari Darshini,South Indian,4.7,45,100,Bangalore
+158,Amingad's Vijaya Karadant,"South Indian, Snacks, Indian",--,46,200,Bangalore
+159,Hatti Donne Biryani,"Biryani, South Indian, Chinese",3.8,32,199,Bangalore
+160,Hatti Donne Biryani,"Biryani, South Indian, Chinese",3.8,32,199,Bangalore
+161,Mama Mangaalore,"Mangalorean, South Indian, Biryani, Keto, Sweets, Desserts, Beverages",4.1,37,250,Bangalore
+162,Bowl 99,"Indian, North Indian, South Indian",3.8,41,200,Bangalore
+163,New Bhimas Garden Veg,"Chinese, Chaat, Juices, North Indian, South Indian",3.3,31,200,Bangalore
+164,SRI MARUTHI BIRIYANI CORNER,South Indian,2.6,39,400,Bangalore
+165,Biriyani Mane,"Andhra, Beverages, Biryani, Chinese, Coastal, North Indian, Seafood, South India...",4.1,45,400,Bangalore
+166,Imperial Restaurant,"Chinese, South Indian, North Indian, Tandoor, Kerala, Beverages",4.0,35,400,Bangalore
+167,Malabar Cafe,"Kerala, South Indian, Desserts, Barbecue, Mughlai, Seafood",3.6,41,349,Bangalore
+168,New Aaradhya Food Line,"Indian, South Indian, Snacks, North Indian",4.4,30,500,Bangalore
+169,ChattichoruShaap,"South Indian, Kerala",3.8,46,300,Bangalore
+170,Kamat Hotel,South Indian,--,31,200,Bangalore
+171,GR IYENGAR FAST FOOD,South Indian,4.1,32,100,Bangalore
+172,Adithya,"Chinese, South Indian, North Indian, Desserts",4.0,47,200,Bangalore
+173,Vinaya Cafe,"North Indian, South Indian, Chinese",4.4,42,250,Bangalore
+174,UDUPI AHARA (VEG RESTAURANT),"South Indian, Chinese",3.8,45,50,Bangalore
+175,Udupi Sri Krishna Vaibhava,"South Indian, Chinese, Desserts",3.9,28,150,Bangalore
+176,JAYANAGARA TIFFANY'S,"South Indian, Beverages",--,37,100,Bangalore
+177,Brundavan Upachar,"South Indian, North Indian, Chinese, Chaat, Beverages, Ice Cream",4.1,37,200,Bangalore
+178,Mama Mangaalore,"Mangalorean, South Indian, Biryani, Keto, Sweets, Desserts, Beverages",4.1,37,250,Bangalore
+179,Puliyogare Company,South Indian,--,37,200,Bangalore
+180,Bowl Soul,"Indian, Asian, Continental, Pan-Asian, Chinese, Mediterranean, Mexican, Lebanese...",4.1,42,250,Bangalore
+181,Ashirvaad Grand,"Chinese, South Indian, North Indian, Desserts, Beverages",4.3,37,200,Bangalore
+182,Raghavendra Upahara,"South Indian, Chinese, Ice Cream",4.4,37,100,Bangalore
+183,Saarangi Fine Dining,"Chinese, North Indian, South Indian",4.3,37,250,Bangalore
+184,SOUTH HOLIGE MANE,"South Indian, Snacks, Sweets",4.6,37,200,Bangalore
+185,Uttara Karnataka Rotti Mane,"South Indian, Indian, Snacks",3.6,37,250,Bangalore
+186,LOVELUCK'S NEIVEDYAM,"South Indian, Snacks",--,37,200,Bangalore
+187,Thalassery Restaurant,"South Indian, Chinese, Kerala",4.0,38,400,Bangalore
+188,Madurai Idly Shop,South Indian,4.1,38,150,Bangalore
+189,South Grand,"Street Food, North Indian, Chinese, Desserts, South Indian",4.2,38,400,Bangalore
+190,Lakshmi food point,"South Indian, Indian",3.1,38,200,Bangalore
+191,Chapati Factory,"Chinese, South Indian, Indian",4.1,38,99,Bangalore
+192,Sree Banashankari Donne Biryani,"Biryani, South Indian, Indian, Chinese, Grill, Kebabs, Beverages",3.8,36,250,Bangalore
+193,Madurai Parotta House,"South Indian, Chinese, Chettinad",3.3,51,250,Bangalore
+194,Paddu Point,South Indian,3.5,25,120,Bangalore
+195,Shree Guru Sagar,"North Indian, South Indian, Chinese",4.2,36,150,Bangalore
+196,Airlines Hotel,"South Indian, North Indian",4.5,34,500,Bangalore
+197,Sri Sai Cafe,"North Indian, Chinese, South Indian, Street Food",3.7,27,150,Bangalore
+198,Brahmishree Nandi Grand,"North Indian, Chinese, South Indian, Biryani, Beverages",--,25,250,Bangalore
+199,Coffee time,"South Indian, Snacks, Sweets, Thalis",--,30,150,Bangalore
+200,Davanagere Benne Dose Mane,South Indian,4.3,38,200,Bangalore
+201,Bhattara Bhojana,South Indian,4.3,30,300,Bangalore
+202,Sri Vishnu Upahar,"South Indian, Chinese",4.4,47,400,Bangalore
+203,Shiv Sagar ( RS ),"Asian, Beverages, Biryani, Chinese, Continental, Desserts, South Indian",4.1,41,600,Bangalore
+204,SOUTH HOLIGE MANE,"South Indian, Snacks, Sweets",4.6,37,200,Bangalore
+205,SATKRITI SAATVIK,South Indian,4.4,37,120,Bangalore
+206,Kavali Hotel,South Indian,4.3,31,250,Bangalore
+207,Chillies,"South Indian, North Indian, Snacks, Beverages",--,51,400,Bangalore
+208,Dindigul Thalappakatti,"South Indian, Biryani, Chinese, North Indian",4.0,40,500,Bangalore
+209,Jayanagara Donne Biryani,"Biryani, South Indian",4.0,40,300,Bangalore
+210,HOTEL VIRAT SIRI DARSHINI,"South Indian, Chinese, North Indian",--,45,180,Bangalore
+211,SIRI NAATI STYLE HOTEL VIJAYANAGAR,"North Indian, Biryani, South Indian, Snacks",3.8,34,450,Bangalore
+212,Monsoon,"Andhra, Asian, Bengali, Biryani, Chettinad, Coastal, Continental, Desserts, Ital...",4.6,56,700,Bangalore
+213,Palmgrove Ballal Residency,"Chinese, Coastal, Desserts, Jain, North Indian, South Indian",4.5,48,400,Bangalore
+214,Davanagere Benne Dosa Manne	,South Indian,--,24,200,Bangalore
+215,Shetty Lunch Home,"Seafood, Mangalorean, Coastal, South Indian, North Indian, Chinese",4.3,43,450,Bangalore
+216,Hotel Tom's Restaurant,"Mangalorean, Biryani, Seafood, Chinese, North Indian, Desserts, South Indian, Co...",4.5,36,400,Bangalore
+217,Thin-di-Oo-ta,"South Indian, North Indian, Continental, Snacks",4.7,51,200,Bangalore
+218,SANIDHYA VEG,"South Indian, Chinese, Chaat",4.1,33,1000,Bangalore
+219,Peppy Parathas & Rolls By Chai Point,"Bakery, Beverages, Maharashtrian, Snacks, Street Food, South Indian, Punjabi",--,46,150,Bangalore
+220,Chai,"South Indian, Desserts, Juices, Ice Cream, Continental, Beverages, Snacks",--,47,99,Bangalore
+221,THE BANGALORE TIFFANYS,South Indian,--,27,200,Bangalore
+222,Iyengars Inn,"South Indian, Snacks",--,30,200,Bangalore
+223,HomeSe Just Veg,"South Indian, North Indian",3.3,35,200,Bangalore
+224,Udupi Sagar,"Chinese, South Indian, Snacks, Beverages",--,34,250,Bangalore
+225,New Samrat Restaurant,"South Indian, North Indian, Snacks, Sweets",4.3,31,150,Bangalore
+226,Samrudh Veg,"South Indian, Chinese",3.9,42,150,Bangalore
+227,Kamat Aahaar- Malleshwaram,"South Indian, Snacks, Beverages",4.1,32,350,Bangalore
+228,LAKSHMI SAGAR DELUX VEG,"South Indian, Chinese, North Indian",--,35,250,Bangalore
+229,The Chariot Veg Restaurant,"Chinese, South Indian, North Indian, Desserts, Punjabi",3.9,46,400,Bangalore
+230,Bonito Bistro,"Beverages, South Indian, Italian-American, Fast Food, Snacks",--,52,400,Bangalore
+231,MANDYA GOWDRU,"South Indian, Snacks, Biryani",--,42,250,Bangalore
+232,Nashta House,"South Indian, Chinese",--,42,250,Bangalore
+233,Savi Sagar	,"Indian, South Indian, Beverages",--,41,300,Bangalore
+234,New Aatithya Restaurant,"South Indian, Tandoor, Fast Food, Chinese, Sweets, Beverages, Ice Cream, Chaat, ...",--,34,300,Bangalore
+235,Salt - Indian Restaurant Bar & Grill,"South Indian, Indian, Combo, Biryani, Desserts",4.3,45,1000,Bangalore
+236,Southly Healthy By Adiga's,"South Indian, Healthy Food",3.8,28,200,Bangalore
+237,Lekhana Tiffins,"South Indian, Desserts",--,42,100,Bangalore
+238,VAMSI TIFFIN CENTER,South Indian,--,49,100,Bangalore
+239,SHREE SAGAR VEG FAST FOOD,"South Indian, Beverages",--,40,250,Bangalore
+240,SHREE SAGAR VEG FAST FOOD,"South Indian, Beverages",--,40,250,Bangalore
+241,SLV Delite,"Chinese, North Indian, South Indian",4.2,35,350,Bangalore
+242,What s On The Menu,"South Indian, Beverages",--,54,249,Bangalore
+243,South Ruchi,"Chinese, North Indian, South Indian",4.0,25,150,Bangalore
+244,GOWDRU MILTRY HOTEL,"South Indian, Biryani, Snacks, Kebabs",--,41,300,Bangalore
+245,Sri Krishna Upahar,"South Indian, Chinese",--,49,150,Bangalore
+246,NEW UDUPI DHARSHINI,"South Indian, Indian, Chinese",3.9,48,250,Bangalore
+247,GULBARGA REFRESHMENTS,"South Indian, North Indian, Beverages",3.7,32,200,Bangalore
+248,Sri Krishna bhavana,"South Indian, North Indian, Chinese, Tandoor, Beverages, Juices",--,39,300,Bangalore
+249,SREE ANNAPOORNESHWARI DOSE CORNER,"South Indian, Fast Food, Beverages",--,41,200,Bangalore
+250,Namma Bengaluru cafe,South Indian,--,29,200,Bangalore
+251,Paandikadai-Chettinad kitchen by Salt,"Biryani, South Indian, Chettinad",3.8,50,400,Bangalore
+252,Uttara Karnataka Jolad Rotti Matttu Chapati Angadi,South Indian,4.1,30,200,Bangalore
+253,Master Cook,"Chinese, North Indian, South Indian",--,35,250,Bangalore
+254,MITHRA CAFE,South Indian,4.3,41,200,Bangalore
+255,VV Biryani,"Biryani, Chettinad, South Indian, Chinese",--,49,200,Bangalore
+256,SWAAD KUTIRRA,South Indian,3.2,28,500,Bangalore
+257,GRACE@KITCHENS,"South Indian, Biryani",--,42,260,Bangalore
+258,DG Andra Style Restaurant,"South Indian, Chinese, Biryani",--,48,250,Bangalore
+259,Uttara Karnataka Jolad Rotti & Chapathi Store,South Indian,3.9,27,200,Bangalore
+260,Kudla Beach,"North Indian, Chinese, Seafood, South Indian",3.7,34,400,Bangalore
+261,Andhra Meal Co,"Andhra, South Indian, Home Food",--,29,200,Bangalore
+262,Vaigai Vilas,"Biryani, Andhra, South Indian, Chinese, Beverages",3.4,48,250,Bangalore
+263,Chaitanya Veg Fast Food,South Indian,4.4,42,150,Bangalore
+264,JAYANAGARA TIFFANY'S,"South Indian, Beverages",--,37,100,Bangalore
+265,Le Rock,"Andhra, Chinese, Italian, Mexican, Seafood, South Indian",--,47,200,Bangalore
+266,Simply Meal,South Indian,3.9,33,199,Bangalore
+267,BRAHMINS VEG CORNER/SRI GURU RAGHAVENDRA ENTERPRIS,"South Indian, Beverages",4.0,39,130,Bangalore
+268,Indian Bowls by Living Food,"North Indian, South Indian, Healthy Food, Keto, Beverages, Desserts, Snacks, Swe...",--,50,300,Bangalore
+269,Hotel Devaregathi,South Indian,3.7,35,100,Bangalore
+270,Tasty Munch,"Chinese, South Indian, American, Italian, Mexican, Hyderabadi",4.3,47,150,Bangalore
+271,Butter Batter,South Indian,--,34,200,Bangalore
+272,The Food Yogis,South Indian,--,29,150,Bangalore
+273,VINAYAKA TIFFEN CENTER,"South Indian, Chinese, Snacks",--,47,200,Bangalore
+274,B S HOME FOOD,South Indian,--,45,200,Bangalore
+275,HOTEL MANGALA,South Indian,4.7,29,150,Bangalore
+276,Puliyogare Company,South Indian,--,37,200,Bangalore
+277,Sandhya Veg,"Chinese, South Indian, North Indian, Desserts, Beverages",3.6,44,150,Bangalore
+278,Indian Bowl Co,"North Indian, South Indian",3.8,46,250,Bangalore
+279,MERMAID'S TAIL,"Chinese, South Indian, Seafood",--,54,300,Bangalore
+280,ANDA BHOJANA,"North Indian, South Indian, Snacks",--,45,200,Bangalore
+281,Sri Udupi Utsav	,"South Indian, Indian, Tandoor, North Indian, Chinese, Sweets, Juices",--,50,299,Bangalore
+282,Annapoorneshwari Dosa Corner,South Indian,3.9,47,150,Bangalore
+283,Puliyogare Palace,"South Indian, Desserts",2.8,30,250,Bangalore
+284,Food Mantra,"Seafood, Tandoor, Chinese, North Indian, South Indian",3.0,51,300,Bangalore
+285,Mayura 1989,"Chinese, South Indian, North Indian, Desserts, Fast Food, Andhra, Mughlai, Seafo...",4.1,30,900,Bangalore
+286,Davanagere butter dosa,South Indian,--,55,120,Bangalore
+287,SRI SIDEESHWARA MESS,"South Indian, Biryani",--,32,450,Bangalore
+288,Enchante By Chai Point,"Bakery, Beverages, Maharashtrian, Snacks, Street Food, South Indian, Punjabi",--,47,150,Bangalore
+289,Chai Makhanii,"Biryani, Kerala, Chinese, South Indian",--,45,300,Bangalore
+290,Vinay Upahar,"South Indian, Snacks, Beverages",4.3,47,200,Bangalore
+291,KEMPEGOWDA BIRYANI NATI STYLE,"Biryani, South Indian",--,30,300,Bangalore
+292,KAMAT HOSARUCHI,South Indian,--,46,400,Bangalore
+293,High N Hungry,"Fast Food, Chinese, Desserts, Seafood, South Indian",4.0,49,350,Bangalore
+294,Dhanpal Hotel,"South Indian, Biryani",--,35,250,Bangalore
+295,Hotel Raghavendra Prasanna,"Beverages, South Indian",4.9,30,200,Bangalore
+296,Atlas World Cafe,"North Indian, South Indian, Indian, Biryani, Chinese, Continental, Desserts",--,40,600,Bangalore
+297,Nuts Hut,"Bakery, South Indian, Snacks",--,38,400,Bangalore
+298,Spicy Corner,"South Indian, Chinese, North Indian",3.6,49,150,Bangalore
+299,Saarangi Fine Dining,"Chinese, North Indian, South Indian",4.3,37,250,Bangalore
+300,Tandoori Merchant,"Andhra, Biryani, Chinese, Desserts, Seafood, South Indian",4.1,50,100,Bangalore
+301,LOVELUCK'S NEIVEDYAM,"South Indian, Snacks",--,37,200,Bangalore
+302,HOTEL SAMBRAMA,"North Indian, South Indian",--,42,200,Bangalore
+303,Northwind Restaurant,"Mangalorean, South Indian, Biryani, North Indian",4.2,34,400,Bangalore
